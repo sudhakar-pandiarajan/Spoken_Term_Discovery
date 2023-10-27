@@ -8,11 +8,11 @@ The above source code demonstrates the step-by-step flow from acoustic feature e
 please cite our work:
 ```
 @article{STD2023,
-title = {To be updated},
-journal = {To be updated},
+title = {Unsupervised spoken term discovery using pseudo lexical induction},
+journal = {International Journal of Speech Technology},
 year = {2023},
-doi = {},
-url = {},
+doi = {https://doi.org/10.1007/s10772-023-10049},
+url = {https://rdcu.be/dpAfk},
 author = {Sudhakar P and Sreenivasa Rao K and Pabitra Mitra}
 }
 
